@@ -1,0 +1,31 @@
+{
+  "Hunters": [
+    {
+      "ID": "0",
+      "Name": "The Mercenary",
+      "Difficulty": "Easy",
+      "Description": "An old Mercenary which wants to kill all Runners for killing his father during the first Bloodgames",
+      "Ultimate": "WIP",
+      "Level": "0",
+      "Class": "Mid-Range"
+    },
+    {
+      "ID": "1",
+      "Name": "Speed",
+      "Difficulty": "Hard",
+      "Description": "A fast Titan who is build around a fas kit, to kill Runners fast.",
+      "Ultimate": "WIP",
+      "Level": "0",
+      "Class": "Offensive"
+    },
+    {
+      "ID": "2",
+      "Name": "Eye",
+      "Difficulty": "Medium",
+      "Desciption": "A Titan who sees everything. No one can't hide from her sight.",
+      "Ultimate": "Hunters Eye",
+      "Level": "0",
+      "Class": "Long-Range"
+    }
+  ]
+}
