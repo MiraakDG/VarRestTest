@@ -1,0 +1,40 @@
+{
+  "ErrosPlayFabBackend": [
+    {
+      "ID": "1191",
+      "ErrorName": "Server Closed",
+      "Message": "The Project Chronos servers are currently not available. Please try again later.",
+      "ErrorDetails": " "
+    },
+    {
+      "ID": "1010",
+      "ErrorName": "Steam Offline",
+      "Message": "Your status in Steam is currently offline. All game functionality is unavailable under these circumstances. Please make sure your internet connection and Steam connection is active.",
+      "ErrorDetails": " "
+    },
+    {
+      "ID": "503",
+      "ErrorName": "No Network Connection",
+      "Message": "In order to access this content, a network connection is required.",
+      "ErrorDetails": " "
+    },
+    {
+      "ID": "1000",
+      "ErrorName": "Invalid Parameter",
+      "Message": "In order to access this content, a network connection is required.",
+      "ErrorDetails": " "
+    },
+    {
+      "ID": "1002",
+      "ErrorName": "You have been banned",
+      "Message": "Your account has been suspended. For more information please contact the Staff in the Discord Server.",
+      "ErrorDetails": " "
+    },
+    {
+      "ID": "1127",
+      "ErrorName": "Steam down",
+      "Message": "Can't connect to Steam API. Please try again later.",
+      "ErrorDetails": " "
+    }
+  ]
+}
