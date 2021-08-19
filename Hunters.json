@@ -4,7 +4,7 @@
       "ID": "0",
       "Name": "The Mercenary",
       "Difficulty": "Easy",
-      "Description": "Lorem ipsum dolor sit amet, consectetur adipisici elit, …",
+      "Description": "Lorem ipsum dolor sit amet, consectetur adipisici elit, ...",
       "Ultimate": "Lorem ipsum",
       "Level": "0",
       "Class": "Mid-Range"
@@ -13,7 +13,7 @@
       "ID": "1",
       "Name": "Speed",
       "Difficulty": "Hard",
-      "Description": "Lorem ipsum dolor sit amet, consectetur adipisici elit, …",
+      "Description": "Lorem ipsum dolor sit amet, consectetur adipisici elit, ...",
       "Ultimate": "Lorem ipsum",
       "Level": "0",
       "Class": "Offensive"
@@ -22,7 +22,7 @@
       "ID": "2",
       "Name": "Eye",
       "Difficulty": "Medium",
-      "Description": "Lorem ipsum dolor sit amet, consectetur adipisici elit, …",
+      "Description": "Lorem ipsum dolor sit amet, consectetur adipisici elit, ...",
       "Ultimate": "Lorem ipsum",
       "Level": "0",
       "Class": "Long-Range"
