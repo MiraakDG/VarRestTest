@@ -7,7 +7,7 @@
       "Description": "Lorem ipsum dolor sit amet, consectetur adipisici elit, ...",
       "Ultimate": "Lorem ipsum",
       "Level": "0",
-      "enabled": "true",
+      "enabled": true,
       "progress": "Development",
       "Class": "Mid-Range"
     },
@@ -18,7 +18,7 @@
       "Description": "Lorem ipsum dolor sit amet, consectetur adipisici elit, ...",
       "Ultimate": "Lorem ipsum",
       "Level": "0",
-      "enabled": "true",
+      "enabled": true,
       "progress": "not started",
       "Class": "Close-Range"
     },
@@ -29,7 +29,7 @@
       "Description": "Lorem ipsum dolor sit amet, consectetur adipisici elit, ...",
       "Ultimate": "Lorem ipsum",
       "Level": "0",
-      "enabled": "false",
+      "enabled": false,
       "progress": "not started",
       "Class": "Long-Range"
     }
