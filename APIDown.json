@@ -1,0 +1,9 @@
+{
+  "APIDown": [
+    {
+      "APIOnline": true,
+      "ErrorName": "Server Down",
+      "ErrorMessage": "The Project Chronos servers are currently unavailable. Please try again later."
+    }
+  ]
+}
