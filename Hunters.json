@@ -1,30 +1,36 @@
 {
   "Hunters": [
     {
-      "ID": "0",
+      "HunterID": "0",
       "Name": "The Mercenary",
       "Difficulty": "Easy",
       "Description": "Lorem ipsum dolor sit amet, consectetur adipisici elit, ...",
       "Ultimate": "Lorem ipsum",
       "Level": "0",
+      "enabled": "true",
+      "progress": "Development",
       "Class": "Mid-Range"
     },
     {
-      "ID": "1",
+      "HunterID": "1",
       "Name": "Speed",
       "Difficulty": "Hard",
       "Description": "Lorem ipsum dolor sit amet, consectetur adipisici elit, ...",
       "Ultimate": "Lorem ipsum",
       "Level": "0",
-      "Class": "Offensive"
+      "enabled": "false",
+      "progress": "not started",
+      "Class": "Close-Range"
     },
     {
-      "ID": "2",
+      "HunterID": "2",
       "Name": "Eye",
       "Difficulty": "Medium",
       "Description": "Lorem ipsum dolor sit amet, consectetur adipisici elit, ...",
       "Ultimate": "Lorem ipsum",
       "Level": "0",
+      "enabled": "false",
+      "progress": "not started",
       "Class": "Long-Range"
     }
   ]
