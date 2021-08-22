@@ -18,7 +18,7 @@
       "Description": "Lorem ipsum dolor sit amet, consectetur adipisici elit, ...",
       "Ultimate": "Lorem ipsum",
       "Level": "0",
-      "enabled": true,
+      "enabled": false,
       "progress": "not started",
       "Class": "Close-Range"
     },
