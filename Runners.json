@@ -1,33 +1,33 @@
 {
   "Runners": [
     {
-      "ID": "0",
+      "ID": 0,
       "Name": "Bloodline",
       "Difficulty": "Easy",
       "Ability": "Healing Bolt",
       "Description": "A fast and agile nurse from Arizona who has decided to join the Bloodgames to saving her younger Brother.",
       "Ultimate": "Resurrection Bolt",
-      "Level": "0",
+      "Level": 0,
       "Class": "Support"
     },
     {
-      "ID": "1",
+      "ID": 1,
       "Name": "Traveller",
       "Difficulty": "Medium",
       "Ability": "Travel Bolt",
       "Description": "A young time traveller from the future who wants to change the time by winning the Bloodgames.",
       "Ultimate": "Teleporter",
-      "Level": "0",
+      "Level": 0,
       "Class": "Defensive"
     },
     {
-      "ID": "2",
+      "ID": 2,
       "Name": "Ghost",
       "Difficulty": "Hard",
       "Ability": "Blind Bolt",
       "Desciption": "An unknown Runner ERROR...",
       "Ultimate": "Shutdown",
-      "Level": "0",
+      "Level": 0,
       "Class": "Long-Range"
     }
   ]
